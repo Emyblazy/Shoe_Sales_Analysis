@@ -1,12 +1,12 @@
 # Global_Shoe_Sales_Analysis
 
 ## Project Description
-This project presents a top-level analysis of global shoe sales data using Ms Excel, Power Query, SQL and Power BI. This analysis helped uncover key business insights related to revenue generation, customer preferences, sales channels, product performance, and regional demand patterns. Furthermore, executive-level questions relating to strategic decision-making for retail growth, pricing optimization, product focus, and market expansion were focused.
+This project presents a top-level analysis of Global shoe sales dataset using Excel, Power Query, SQL and Power BI. This analysis helped uncover key business insights related to revenue generation, customer preferences, sales channels, product performance, and regional demand patterns. Additionally, Executive-level questions relating to strategic decision-making for retail growth, pricing optimization, product focus, and market expansion were explored.
 
 ## Tools & Technologies Used
-- Excel/CSV Dataset – Data source
+- Excel – Data Cleaning & Transformation
 - Power Query - Data Cleaning & Transformation 
-- SQL – Queried the dataset to get insight
+- SQL – Queried the dataset to get KPIs and answers to the Business Questions
 - Power BI – Data visualization & dashboard development
 
 # Core Key Performance Indicators (KPIs)
