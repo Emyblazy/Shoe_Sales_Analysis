@@ -50,6 +50,6 @@ This project presents a top-level analysis of global shoe sales data using Ms Ex
 6. Optimize Pricing Strategy: Mid-priced shoes achieved high sales volume while premium shoes generated high revenue. A balanced pricing strategy should be maintained to capture both affordability-focused and premium customers.
 
 ## Power-Bi Dashboad
-Click the link to view a screenshot of the <a href = "https://github.com/user-attachments/assets/188826bc-6a5c-4952-ac6d-2853106c34c0" img width="909" height="489" alt="image"> Customer Purchase Behaviour Dashboard </a> 
+Click the link to view a screenshot of the <a href = "https://github.com/user-attachments/assets/188826bc-6a5c-4952-ac6d-2853106c34c0" width="100%"> Global Shoe Sales Dashboard </a> 
 
 
